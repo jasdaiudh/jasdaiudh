@@ -1,0 +1,1 @@
+.image[idx];      png.data[idx + 1] = img.image[idx + 1];      png.data[idx + 2] = img.image[idx +
