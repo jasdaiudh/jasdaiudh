@@ -1,0 +1,1 @@
+ateTime = getCurrentDateTime;function getCurrentDate() {  const now = new Date();    // Extract
