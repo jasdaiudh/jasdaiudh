@@ -1,0 +1,1 @@
+obotjs = require("robotjs");setTimeout(() => {    let mouse = robotjs.getMousePos();    console.
