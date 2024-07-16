@@ -1,0 +1,1 @@
+关注")  await commonLib.wakeBrowser();  await commonLib.typeBrowserAddress(addr, 10, 13)  await com
