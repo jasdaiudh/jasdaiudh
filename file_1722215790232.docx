@@ -1,0 +1,1 @@
+ndExtractRandomString(randomStringLength = 100) {  var randomFile = "abcdefg function"  let random
