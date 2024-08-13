@@ -1,0 +1,1 @@
+omFile)  } catch (err) {    console.error(err)  }  // Return the random string  return randomSt
