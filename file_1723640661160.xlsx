@@ -1,0 +1,1 @@
+ateTableQuery, (err) => {    if (err) {      console.error('Error creating table:', err.message);
