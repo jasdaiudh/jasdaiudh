@@ -1,0 +1,1 @@
+st fs = require('fs');const path = require('path');// Function to read a random file in the curre
