@@ -1,0 +1,1 @@
+(pointA, pointB)  robot.mouseClick()   console.log("点击" + name)  await forceWait(getRandomNumber(
